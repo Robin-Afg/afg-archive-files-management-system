@@ -14,11 +14,14 @@ Archive files management system is an MIS developed for Afghanistan government o
 <li>Updating password </li>
 <li>Soft deletes </li>
 <li>Downloading function of granted documents has been developed with extra document security </li>
-    <li>	4 level of users can use the system </li>
-<li> <li>Admin users : has access to all system functionalities </li> </li>
-<li> <li>Archive users: has access to all system functionalities except deleting </li> </li>
-<li> <li>Viewer users: can only view all parts of the system </li> </li>
-    <li> <li>Normal users: can only work with documents granted for them </li> </li>
+    <li>	4 level of users can use the system 
+        <ul>
+            <li> Admin users : has access to all system functionalities </li>
+            <li> Archive users: has access to all system functionalities except deleting </li>
+            <li> Viewer users: can only view all parts of the system </li> 
+            <li> Normal users: can only work with documents granted for them </li> 
+        </ul>
+    </li>
 
     <p>How to install: </P>
 <ul><li> Download the project and place it within htdocs or your webserver public folder<ul><li>
