@@ -1,3 +1,4 @@
+<h3 style="text-center;" >Archive files management system for Afghanistan </h3>
 Archive files management system is an MIS developed for Afghanistan government organizations, it has been used for more than 2 years within some government entities. The software is designed and follows Afghanistan government administrative process and procedures. This MIS is in Dari Language. This is a clone of the application created. It is equipped with functionalities such as:
 <ul>
     <li>Adding documents </li>
@@ -22,15 +23,20 @@ Archive files management system is an MIS developed for Afghanistan government o
             <li> Normal users: can only work with documents granted for them </li> 
         </ul>
     </li>
-
+</ul>
     <p>How to install: </P>
-<ul><li> Download the project and place it within htdocs or your webserver public folder<ul><li>
-<li> In your MySQL or other database application import the database provided in install folder (do not use migrations) </li>
-<li>Replace the vendor\hekmatinasser\src\Lang\fa.php file with the fa.php file you will find in the install folder of this app  </li>
-<li>Login in to the system with the following credentials </li>
-    <p>Email: Admin@gmail.com </p>
-    <p>Password: admin@123</p>
+<ul>
+    <li> Download the project and place it within htdocs or your webserver public folder <li>
+    <li> In your MySQL or other database application import the database provided in install folder (do not use migrations) </li>
+    <li>Replace the vendor\hekmatinasser\src\Lang\fa.php file with the fa.php file you will find in the install folder of this app  </li>
+    <li>Login in to the system with the following credentials 
+        <ul>
+            <li>Email: Admin@gmail.com </li>
+            <li>Password: admin@123</li>
+        </ul>
+    </li>
 <li> After logging in you are free to create and test all functionalities of the system by creating new users, adding documents and more.
     Bring necessary changes to .env file. </li>
+</ul>
 
 <p>Note: The original application has been developed with Laravel 5, but we integrated all application functionalities in Laravel 8 </p>
