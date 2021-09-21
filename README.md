@@ -28,7 +28,7 @@ Archive files management system is an MIS developed for Afghanistan government o
 <ul>
     <li> Download the project and place it within htdocs or your webserver public folder </li>
     <li> In your MySQL or other database application import the database provided in install folder (do not use migrations) </li>
-    <li> In your command line "Run composer Install "</li>
+    <li> In your command line Run " composer Install "</li>
     <li>Replace the vendor\hekmatinasser\src\Lang\fa.php file with the fa.php file you will find in the install folder of this app  </li>
     <li>Login in to the system with the following credentials 
         <ul>
