@@ -26,7 +26,7 @@ Archive files management system is an MIS developed for Afghanistan government o
 </ul>
     <p>How to install: </P>
 <ul>
-    <li> Download the project and place it within htdocs or your webserver public folder <li>
+    <li> Download the project and place it within htdocs or your webserver public folder </li>
     <li> In your MySQL or other database application import the database provided in install folder (do not use migrations) </li>
     <li>Replace the vendor\hekmatinasser\src\Lang\fa.php file with the fa.php file you will find in the install folder of this app  </li>
     <li>Login in to the system with the following credentials 
@@ -40,12 +40,19 @@ Archive files management system is an MIS developed for Afghanistan government o
 </ul>
 
 <p>Note: The original application has been developed with Laravel 5, but we integrated all application functionalities in Laravel 8 </p>
-
+<p>
 ![login](https://user-images.githubusercontent.com/89167574/134092148-787f3634-6184-470e-bb5f-d012400cd76a.png)
-![dashboard](https://user-images.githubusercontent.com/89167574/134092150-4ee5b7b6-9001-4e61-a2b4-bcb161131c3d.png)
-![Sadera](https://user-images.githubusercontent.com/89167574/134092159-0feca0e6-0bde-4d57-aec5-70efa642040f.png)
-![activity_log](https://user-images.githubusercontent.com/89167574/134092165-6736611c-0c90-4800-92f0-62326e066e29.png)
+</p>
 
+<p>
+![dashboard](https://user-images.githubusercontent.com/89167574/134092150-4ee5b7b6-9001-4e61-a2b4-bcb161131c3d.png)
+ </p>   
+<p>
+![Sadera](https://user-images.githubusercontent.com/89167574/134092159-0feca0e6-0bde-4d57-aec5-70efa642040f.png)
+</p>    
+ <p>
+![activity_log](https://user-images.githubusercontent.com/89167574/134092165-6736611c-0c90-4800-92f0-62326e066e29.png)
+</p>
 
 
 
